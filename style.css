@@ -1040,3 +1040,5 @@ h4 {
         text-align: center;
     }
 }
+
+@media (max-width:767px){.imgBlock{margin:0 auto;width:80%;height:auto}}.flexCenter{display:flex;justify-content:center}.textAjout2{margin-bottom:25px;padding-left:20px;padding-right:20px}.textAjout1{padding-top:20px;padding-bottom:10px;padding-left:30px;padding-right:30px}.textCenter{text-align:center}.flexContact{display:flex}
